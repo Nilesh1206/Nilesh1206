@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh Gopale</h1>
 <h3 align="center">Truly passionate about coding and learning new technologies and hope to contribute significantly in this field in the future. Eagerly looking for a placement in elite tech companies and always in need of a referral, which might help in my purpose.</h3>
 
-- 🔭 I’m currently working on [Health Care App](https://github.com/Nilesh1206/PatientApp)
+<!-- - 🔭 I’m currently working on [Health Care App](https://github.com/Nilesh1206/PatientApp) -->
 
 - 🌱 I’m currently learning **Advance Data Structures and Algorithms, App Development, JavaScript**
 
