@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **gopalenilesh121@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17J41Ek7YWIjXy87J4aKacYfCkSE1qAR4/view?usp=sharing](https://drive.google.com/file/d/17J41Ek7YWIjXy87J4aKacYfCkSE1qAR4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
